@@ -1,0 +1,44 @@
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Ensure space between items */
+    width: 100%; /* Use full width */
+    padding-left: 5vw;
+    padding-right: 5vw;
+    position: relative;
+    z-index: 1000;
+    top: 6vh;
+    color: black;
+    border-radius: 1rem;
+}
+
+ul {
+    transition: max-height 0.3s ease-in-out; /* Smooth transition for dropdown */
+    display: flex; /* Ensure the list is displayed as a flex container */
+    flex-grow: 1; /* Allow the list to grow and take available space */
+}
+
+@media (max-width: 768px) {
+    ul {
+        display: none; /* Hide by default on small screens */
+        flex-direction: column; /* Stack items vertically */
+        position: absolute; /* Positioning for dropdown */
+        background-color: rgba(0, 0, 0, 0.8); /* Background for dropdown */
+        width: 100%; /* Full width */
+        top: 100%; /* Position below the navbar */
+        left: 0; /* Align to the left */
+        z-index: 1000; /* Ensure it appears above other content */
+    }
+
+    ul.block {
+        display: flex; /* Show when toggled */
+    }
+}
+li:last-child { /* Assuming "Contact Us" is the last item */
+    white-space: nowrap;
+}
+
+/* Additional styles for padding */
+li {
+    padding-left: 1rem; /* Add left padding to each list item */
+}

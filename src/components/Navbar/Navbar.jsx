@@ -26,7 +26,7 @@ function Navbar1() {
   ];
 
   return (
-    <header className="relative z-50 w-full bg-transparent h-0">
+    <header className="relative z-40 w-full bg-transparent h-0">
       <nav className="flex items-center justify-between px-4 py-2 md:px-8">
         {/* Logo */}
 
@@ -143,7 +143,7 @@ function Navbar2() {
         2) Overflow hidden so the hero can shrink inside 
       */}
       <header
-        className="fixed top-0 left-0 w-full z-50 bg-custom-gradient overflow-hidden transition-all duration-300"
+        className="fixed top-0 left-0 w-full z-40 bg-custom-gradient overflow-hidden transition-all duration-300"
         style={{
           height: `${headerHeight}px`,
         }}
@@ -183,27 +183,24 @@ function Navbar2() {
 
           {/* Menu Items */}
           <ul
-            className={`fixed inset-y-0 right-0 bg-black bg-opacity-75 text-white w-3/4 transform h-[40px] ${
-              isMenuOpen ? "translate-x-0" : "translate-x-full"
-            } transition-transform duration-300 md:relative md:bg-transparent md:flex md:transform-none md:items-center md:justify-end`}
+            className={`fixed inset-y-0 right-0 bg-black bg-opacity-75 text-white w-3/4 transform h-[40px] ${isMenuOpen ? "translate-x-0" : "translate-x-full"
+              } transition-transform duration-300 md:relative md:bg-transparent md:flex md:transform-none md:items-center md:justify-end`}
           >
             {menuItems.map((item, index) => {
               const isActive = window.location.pathname.trim().endsWith(item.path);
               return (
                 <li
                   key={index}
-                  className={`flex text-lg font-medium p-4 md:p-0 md:ml-6 h-full items-center ${
-                    item.name === "Stats"
-                      ? "bg-violet-900 rounded-lg hover:bg-violet-700"
-                      : ""
-                  }`}
+                  className={`flex text-lg font-medium p-4 md:p-0 md:ml-6 h-full items-center ${item.name === "Stats"
+                    ? "bg-violet-900 rounded-lg hover:bg-violet-700"
+                    : ""
+                    }`}
                   onClick={() => setIsMenuOpen(false)}
                 >
                   <Link
                     to={`/${item.path}`}
-                    className={`${
-                      item.name === "Stats" ? "px-4 text-white" : "text-white"
-                    } ${isActive ? "underline underline-offset-8 decoration-1" : ""}`}
+                    className={`${item.name === "Stats" ? "px-4 text-white" : "text-white"
+                      } ${isActive ? "underline underline-offset-8 decoration-1" : ""}`}
                   >
                     {item.name}
                   </Link>
@@ -257,7 +254,6 @@ function Navbar3() {
 
   useEffect(() => {
     const handleScroll = () => {
-      // Toggle scrolled state based on a threshold
       setScrolled(window.scrollY > 10);
     };
     window.addEventListener("scroll", handleScroll);
@@ -276,28 +272,25 @@ function Navbar3() {
 
   return (
     <header
-      className={`fixed top-0 left-0 w-full z-50 bg-custom-gradient overflow-hidden transition-all duration-300 ${
-        scrolled ? "h-20" : "h-[600px]"
-      }`}
+      className={`fixed top-0 left-0 w-full z-30 bg-custom-gradient overflow-hidden transition-all duration-300 ${scrolled ? "h-20" : "h-[600px]"
+        }`}
     >
       {/* Navbar */}
       <nav
-        className={`flex items-center justify-between px-4 md:px-8 transition-all duration-300 ${
-          scrolled ? "h-[70px]" : "h-[120px]"
-        }`}
+        className={`flex items-center justify-between px-4 md:px-8 transition-all duration-300 ${scrolled ? "h-[70px]" : "h-[120px]"
+          }`}
       >
         {/* Logo */}
         <div
-          className={`flex items-center transition-transform duration-300 ${
-            scrolled ? "scale-[0.7]" : "scale-100"
-          }`}
+          className={`flex items-center transition-transform duration-300 ${scrolled ? "scale-[0.7]" : "scale-100"
+            }`}
         >
           <img className="w-40 h-auto" src={bblLogo} alt="Big Boys League Logo" />
         </div>
 
         {/* Hamburger Menu Button */}
         <button
-          className="text-white md:hidden"
+          className="text-white md:hidden z-50"
           onClick={toggleMenu}
           aria-label="Toggle Menu"
         >
@@ -306,27 +299,24 @@ function Navbar3() {
 
         {/* Menu Items */}
         <ul
-          className={`fixed inset-y-0 right-0 bg-black bg-opacity-75 text-white w-3/4 transform h-[40px] ${
-            isMenuOpen ? "translate-x-0" : "translate-x-full"
-          } transition-transform duration-300 md:relative md:bg-transparent md:flex md:transform-none md:items-center md:justify-end`}
+          className={`fixed inset-y-0 right-0 bg-black bg-opacity-75 h-[40px] text-white w-3/4 transform ${isMenuOpen ? "translate-x-0" : "translate-x-full"
+            } transition-transform duration-300 md:relative md:bg-transparent md:flex md:transform-none md:items-center md:justify-end`}
         >
           {menuItems.map((item, index) => {
             const isActive = window.location.pathname.trim().endsWith(item.path);
             return (
               <li
                 key={index}
-                className={`flex text-lg font-medium p-4 md:p-0 md:ml-6 h-full items-center ${
-                  item.name === "Stats"
-                    ? "bg-violet-900 rounded-lg hover:bg-violet-700"
-                    : ""
-                }`}
+                className={`flex text-lg font-medium p-4 md:p-0 md:ml-6 h-full items-center ${item.name === "Stats"
+                  ? "bg-violet-900 rounded-lg hover:bg-violet-700"
+                  : ""
+                  }`}
                 onClick={() => setIsMenuOpen(false)}
               >
                 <Link
                   to={`/${item.path}`}
-                  className={`${
-                    item.name === "Stats" ? "px-4 text-white" : "text-white"
-                  } ${isActive ? "underline underline-offset-8 decoration-1" : ""}`}
+                  className={`z-50 ${item.name === "Stats" ? "px-4 text-white" : "text-white"
+                    } ${isActive ? "underline underline-offset-8 decoration-1" : ""}`}
                 >
                   {item.name}
                 </Link>
@@ -336,11 +326,50 @@ function Navbar3() {
         </ul>
       </nav>
 
+      {/* Sidebar for Mobile */}
+      {isMenuOpen && (
+        <div
+          className="fixed inset-0 bg-black bg-opacity-50 z-50 md:hidden"
+          onClick={toggleMenu}
+        >
+          <div
+            className="absolute top-0 right-0 bg-gray-900 w-3/4 h-full text-white flex flex-col shadow-lg z-50"
+            onClick={(e) => e.stopPropagation()} // Prevent closing when clicking inside
+          >
+            {/* Close Button */}
+            <button
+              className="self-end p-4 text-white"
+              onClick={toggleMenu}
+              aria-label="Close Sidebar"
+            >
+              <FaTimes size={24} />
+            </button>
+
+            {/* Sidebar Menu */}
+            <ul className="space-y-6 px-6 mt-8">
+              {menuItems.map((item, index) => (
+                <li
+                  key={index}
+                  className="block text-lg font-medium text-white hover:text-yellow-500 transition p-4 bg-gray-800 rounded-lg"
+                >
+                  <Link
+                    to={`/${item.path}`}
+                    onClick={() => setIsMenuOpen(false)}
+                    className="block w-full h-full"
+                  >
+                    {item.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      )}
+
       {/* Hero Section */}
       <div
-        className={`flex flex-row justify-around items-center w-full transition-all duration-300 ${
-          scrolled ? "opacity-0 h-0" : "opacity-100 h-[calc(100%-120px)]"
-        }`}
+        className={`flex flex-row justify-around items-center w-full transition-all duration-300 ${scrolled ? "opacity-0 h-0" : "opacity-100 h-[calc(100%-120px)]"
+          }`}
       >
         {/* Hero Text */}
         <div className="flex flex-col text-white w-full h-full justify-center items-center">

@@ -7,6 +7,8 @@ import Home from './components/Home/Home'
 import Gallery from './components/Gallery/GalleryPage';
 import News from './components/News/NewsPage';
 import Teams from './components/Teams/TeamsPage';
+import PointsTable from './components/PointsTable/PointsTable'
+import TeamDetails from './components/Teams/teamDetails';
 
 function App() {
 
@@ -18,6 +20,9 @@ function App() {
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/news" element={<News />} />
         <Route path="/teams" element={<Teams />} />
+        <Route path="/points-table" element={<PointsTable />} />
+        <Route path="/teams" element={<Teams />} />
+        <Route path="/teamDetails/:season/:teamIndex" element={<TeamDetails />} />
       </Routes>
     </Router>
   )

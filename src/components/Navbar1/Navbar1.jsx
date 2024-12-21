@@ -12,7 +12,6 @@ function Navbar() {
 
   const menuItems = [
     { name: "Home", path: "" },
-    { name: "About", path: "about" },
     { name: "Teams", path: "teams" },
     { name: "Points Table", path: "points-table" },
     { name: "Matches", path: "matches" },

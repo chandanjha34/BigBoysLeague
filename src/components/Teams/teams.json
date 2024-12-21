@@ -1,0 +1,438 @@
+{
+  "WPL": [
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/orange_horses.png",
+      "teamName": "Orange Horses",
+      "teamProfile": "Orange Horses was formed during the inaugural season of the BigBoys T20 Cricket league (BBL) launched by One7 Sports Tech Pvt. Ltd. First edition or season of the BBL was held during Aug-Sept ’24 at One7 Sports Park grounds 1,2 &amp; 3 with a total of 10 teams contesting for the coveted BBL trophy. Orange Horses was the proud winner of this coveted BBL trophy in its first avatar.",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Ajay Chhangani",
+          "coOwnerBio": "Ajay Chhangani, has an overall experience of over 24 years in corporate life and having held top positions in various companies he decided to start his own ventures which he has successfully done since then with the most recent being One7 Sports steaming from him love and passion for cricket which he has been playing from his school days. He likes to lead from the front in all walks of life and sure enough he does so on the cricket field too most effectively and confidently. He is an ace off spinner with a special talent for getting top baters of the opponent. Bron in May of 1975, he has never since his childhood said no for a game of cricket.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/ajayChanngani.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/aqua_cat.png",
+      "teamName": "Aqua Cats",
+      "teamProfile": "",
+      "TeamCoOwners": [],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/yellow_lions.png",
+      "teamName": "Yellow Lion",
+      "teamProfile": "",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Jagbir Gulia",
+          "coOwnerBio": "",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/jagbir_gulia.png"
+        },
+        {
+          "coOwner": "Anil Yadav",
+          "coOwnerBio": "",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/ani.png"
+        },
+        {
+          "coOwner": "Vikash Sharma",
+          "coOwnerBio": "",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/vikash.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/pink_swans.png",
+      "teamName": "Pink Swans",
+      "teamProfile": "",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Arvind Kumar",
+          "coOwnerBio": "Arvind Kumar, with his illustrious career that spans over 28 years stands as a paragon of leadership and innovation within the hospitality realm. A Hotel Management graduate and a founding member of his company, Arvind’s visionary acumen extends beyond traditional hospitality boundaries, giving life to RCL—a premier cricket league that elegantly marries his zeal for sports with his unparalleled expertise in luxury guest experiences. Through RCL, he has redefined the confluence of sportsmanship and high-end hospitality, establishing a new echelon in experiential entertainment. From spearheading strategic growth initiatives and crafting sophisticated marketing strategies to overseeing B2B relations and curating exquisite culinary experiences, Arvind’s influence permeates every facet of the organization. As a board member, his discerning insights and unwavering dedication have been instrumental in carving a legacy of distinction and excellence, cementing the company’s standing as an avant-garde leader in the industry.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/arvind.png"
+        },
+        {
+          "coOwner": "Abhishek",
+          "coOwnerBio": "",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/abhishek.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    }
+  ],
+
+  "BBL PRO": [
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/orange_horses.png",
+      "teamName": "Orange Horses",
+      "teamProfile": "Orange Horses was formed during the inaugural season of the BigBoys T20 Cricket league (BBL) launched by One7 Sports Tech Pvt. Ltd. First edition or season of the BBL was held during Aug-Sept ’24 at One7 Sports Park grounds 1,2 &amp; 3 with a total of 10 teams contesting for the coveted BBL trophy. Orange Horses was the proud winner of this coveted BBL trophy in its first avatar.",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Ajay Chhangani",
+          "coOwnerBio": "Ajay Chhangani, has an overall experience of over 24 years in corporate life and having held top positions in various companies he decided to start his own ventures which he has successfully done since then with the most recent being One7 Sports steaming from him love and passion for cricket which he has been playing from his school days. He likes to lead from the front in all walks of life and sure enough he does so on the cricket field too most effectively and confidently. He is an ace off spinner with a special talent for getting top baters of the opponent. Bron in May of 1975, he has never since his childhood said no for a game of cricket.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/ajayChanngani.png"
+        },
+        {
+          "coOwner": "Prashant. P",
+          "coOwnerBio": "",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/prashant.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/green_wolves.png",
+      "teamName": "Green Wolves",
+      "teamProfile": "",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Sanchit Sharma",
+          "coOwnerBio": "",
+          "coOwnerImage": ""
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/black_dog.png",
+      "teamName": "Black Dog",
+      "teamProfile": "Black Dog was formed during the inaugural season of the BigBoys T20 Cricket league (BBL) launched by One7 Sports Tech Pvt. Ltd. First edition or season of the BBL was held during Aug-Sept ’24 at One7 Sports Park grounds 1,2 &amp; 3 with a total of 10 teams contesting for the coveted BBL trophy. Black Dog was the proud runner-up in the first season of BBL.",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Sourav Suneja",
+          "coOwnerBio": "Saurav Suneja, is a business owner in the sports industry operating out of Delhi. He is also a specialist in sports infrastructure projects and offers his services to his clients as a freelancer. Sourav is a deceptive a leg spinner and a bowling all-rounder. He has been playing cricket for the past 20 years and truly enjoys discussing cricket and being as much as possible in a cricketing atmosphere.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/sourav.png"
+        },
+        {
+          "coOwner": "Karan Jorasia",
+          "coOwnerBio": "Karan Jorasia, is a corporate executive working for a reputed life insurance Company in India where he manages complaints and escalations. Karan has been playing cricket since he was a child and has played cricket at highest levels extensively. Karan is living his passion for the sport as a batting all-rounder.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/karan.png"
+        },
+        {
+          "coOwner": "Hemant Balyan",
+          "coOwnerBio": "Hemant Balyan, has been playing corporate cricket for over 10 years. After completing his schooling and graduation from Delhi, Hemant worked as a school teacher for a few years and is now running an event management business which he owns. Cricket has been Hemant’s passion since childhood. To pursue his dream of becoming a cricketer he even received formal training at an academy for some time. Hemant is happy that with the rise of corporate cricket, he has been able to hone his skills and become the fantastic batting all-rounder that he is today. Hemant is a fitness enthusiast and loves to workout.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/Hemant.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/pink_flamingo.png",
+      "teamName": "Pink Flamingo",
+      "teamProfile": "",
+      "TeamCoOwners": [
+        {
+          "coOwner": " Yogesh Pushkarna",
+          "coOwnerBio": "Yogesh Pushkarna, an Engineer by profession with over 20 years of rich experience in the Construction Industry. Very Passionate about cricket, Yogesh loves to play matches during weekends when he gets some respite from his busy corporate life. He is a left arm swing bowler with a special liking of bowling the very first over of the innings and to the best batters around in corporate cricket.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/yogesh.png"
+        },
+        {
+          "coOwner": "Manjeet Dwarka",
+          "coOwnerBio": "",
+          "coOwnerImage": "#"
+        },
+        {
+          "coOwner": "Anil Yadav",
+          "coOwnerBio": "",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/ani.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/golden_eagle.png",
+      "teamName": "Golden Eagles",
+      "teamProfile": "",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Arvind Kumar",
+          "coOwnerBio": "Arvind Kumar, with his illustrious career that spans over 28 years stands as a paragon of leadership and innovation within the hospitality realm. A Hotel Management graduate and a founding member of his company, Arvind’s visionary acumen extends beyond traditional hospitality boundaries, giving life to RCL—a premier cricket league that elegantly marries his zeal for sports with his unparalleled expertise in luxury guest experiences. Through RCL, he has redefined the confluence of sportsmanship and high-end hospitality, establishing a new echelon in experiential entertainment. From spearheading strategic growth initiatives and crafting sophisticated marketing strategies to overseeing B2B relations and curating exquisite culinary experiences, Arvind’s influence permeates every facet of the organization. As a board member, his discerning insights and unwavering dedication have been instrumental in carving a legacy of distinction and excellence, cementing the company’s standing as an avant-garde leader in the industry.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/arvind.png"
+        },
+        {
+          "coOwner": "Abhishek",
+          "coOwnerBio": "",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/abhishek.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/silver_hawks.png",
+      "teamName": "Silver Hawks",
+      "teamProfile": "",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Sunil Kumar",
+          "coOwnerBio": "Sunil Bansal is a seasoned business leader with over 16 years of experience in business strategy, supply chain management, and operational excellence. He is the Co-founder and Chief Operating Officer (COO) at Fitsol, he has been instrumental in the company’s growth, driving operational efficiency, and leading the execution of strategic initiatives. Prio to his own venture, Sunil worked in senior leadership positions with various reputed companies.  His experience in leading high-performance teams combines very well with his passion for cricket where he puts his leadership skills to great use along with his explosive batting and effective spin bowling.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/sunil_bansal.png"
+        },
+        {
+          "coOwner": "Himanshu Bishnoi",
+          "coOwnerBio": "",
+          "coOwnerImage": "#"
+        },
+        {
+          "coOwner": "Alakh Niranjan",
+          "coOwnerBio": "",
+          "coOwnerImage": "#"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    }
+  ],
+
+
+  "BBL SZ 2024": [
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/orange_horses.png",
+      "teamName": "Orange Horses",
+      "teamProfile": "Orange Horses was formed during the inaugural season of the BigBoys T20 Cricket league (BBL) launched by One7 Sports Tech Pvt. Ltd. First edition or season of the BBL was held during Aug-Sept ’24 at One7 Sports Park grounds 1,2 &amp; 3 with a total of 10 teams contesting for the coveted BBL trophy. Orange Horses was the proud winner of this coveted BBL trophy in its first avatar.",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Ajay Chhangani",
+          "coOwnerBio": "Ajay Chhangani, has an overall experience of over 24 years in corporate life and having held top positions in various companies he decided to start his own ventures which he has successfully done since then with the most recent being One7 Sports steaming from him love and passion for cricket which he has been playing from his school days. He likes to lead from the front in all walks of life and sure enough he does so on the cricket field too most effectively and confidently. He is an ace off spinner with a special talent for getting top baters of the opponent. Bron in May of 1975, he has never since his childhood said no for a game of cricket.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/ajayChanngani.png"
+        },
+        {
+          "coOwner": "Lokesh Dahiya",
+          "coOwnerBio": "Lokesh Dahiya, has been playing cricket since he was very young and has since then honed his cricketing skills to become a renowned name in the cricket circles of Delhi-NCR. He is an attacking Right hand batsman and right arm fast bowler. While pursuing his cricket he is also a corporate executive working for for Unitedlex Pvt Ltd, a data and professional services company delivering outcomes that create value for high-performing law firms and corporate legal departments in the areas of litigation and investigations, intellectual property, contract solutions, legal operations, and loan settlement.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/lokesh.png"
+        },
+        {
+          "coOwner": "Bhowmick Bahri",
+          "coOwnerBio": "Bhowmick Bahri a top corporate honcho working currently for American Express at a very senior position loves to watch cricket and travel with family. He recently started playing cricket again in Gurgaon corporate circles and has very swiftly reached many hearts with his unassuming demeanor and pleasing personality.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/bhowmick.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/black_dog.png",
+      "teamName": "Black Dog",
+      "teamProfile": "Black Dog was formed during the inaugural season of the BigBoys T20 Cricket league (BBL) launched by One7 Sports Tech Pvt. Ltd. First edition or season of the BBL was held during Aug-Sept ’24 at One7 Sports Park grounds 1,2 &amp; 3 with a total of 10 teams contesting for the coveted BBL trophy. Black Dog was the proud runner-up in the first season of BBL.",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Sourav Suneja",
+          "coOwnerBio": "Saurav Suneja, is a business owner in the sports industry operating out of Delhi. He is also a specialist in sports infrastructure projects and offers his services to his clients as a freelancer. Sourav is a deceptive a leg spinner and a bowling all-rounder. He has been playing cricket for the past 20 years and truly enjoys discussing cricket and being as much as possible in a cricketing atmosphere.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/sourav.png"
+        },
+        {
+          "coOwner": "Karan Jorasia",
+          "coOwnerBio": "Karan Jorasia, is a corporate executive working for a reputed life insurance Company in India where he manages complaints and escalations. Karan has been playing cricket since he was a child and has played cricket at highest levels extensively. Karan is living his passion for the sport as a batting all-rounder.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/karan.png"
+        },
+        {
+          "coOwner": "Hemant Balyan",
+          "coOwnerBio": "Hemant Balyan, has been playing corporate cricket for over 10 years. After completing his schooling and graduation from Delhi, Hemant worked as a school teacher for a few years and is now running an event management business which he owns. Cricket has been Hemant’s passion since childhood. To pursue his dream of becoming a cricketer he even received formal training at an academy for some time. Hemant is happy that with the rise of corporate cricket, he has been able to hone his skills and become the fantastic batting all-rounder that he is today. Hemant is a fitness enthusiast and loves to workout.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/Hemant.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/purple_panthers.png",
+      "teamName": "Purple Panthers",
+      "teamProfile": "Purple Panthers was formed during the inaugural season of the BigBoys T20 Cricket league (BBL) launched by One7 Sports Tech Pvt. Ltd. First edition or season of the BBL was held during Aug-Sept ’24 at One7 Sports Park grounds 1,2 &amp; 3 with a total of 10 teams contesting for the coveted BBL trophy.",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Deepak Gupta",
+          "coOwnerBio": "Deepak Gupta is a qualified CA with over 30 years of experience of working for multiple corporates at senior positions. Deepak regularly played cricket during school/college days and represented his school/college teams as an all-rounder. Deepak resumed playing cricket in Gurgaon around 2010 and since then has been playing corporate cricket on weekends for fun, fitness and togetherness. His passion for cricket has only strengthened with time. Born in August, 1969, at an age of 55 he is always ready for a match during weekends and badminton in the mornings during weekdays.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/deepak_gupta.png"
+        },
+        {
+          "coOwner": "Prashant.P",
+          "coOwnerBio": "Prashant.P has been working at senior positions in the corporate world for over 25 years. Born in May 1975, he has always been a sports person right from his school days and has represented his school, collage, state and university in various sports.  His re-introduction to the world of cricket in Gurgaon was around a year and a half ago and since then he has been playing corporate cricket regularly during weekends as an all-rounder to improve fitness, feel stress free and have lots of fun with friends, new and old.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/prashant.png"
+        },
+        {
+          "coOwner": "Nitin Ruhela",
+          "coOwnerBio": "Post Graduate in Life Insurance and actuarial sciences with 20+ years of experience of working for multiple corporates across operational and customer engagement in insurance industry. A sports enthusiast with passion to play cricket across all stages of life from young days, a keen planner and strategist backed with skill and Experience is a strong combination to drive outcomes from team and act responsibly in critical situations. He has been part of corporate cricket in NCR since 2004 since he shifted his base from Bareilly to Gurgaon and has played across multiple teams and with well-known cricket enthusiast. Together, these three senior corporate professionals, Deepak Gupta fondly referred to in the cricket circle as Gupta ji, Prashant.P as PP and Nitin Ruhela as NR have decided to continue the journey of team Purple Panthers, a team which was formed during BBL season 1 by Gupta ji and PP and now will be on show again during the BigBoys Corporate Cricket league season 2 after its phenomena performance in the inaugural edition of the BogBoys League. Watch out for their own cricketing skills along with their team’s on display at One7 Sports Park during one of the marquee corporate cricket event in Delhi-NCR.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/nitin_ruhela.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/white_tigers.png",
+      "teamName": "White Tigers",
+      "teamProfile": "White Tigers was formed during the inaugural season of the BigBoys T20 Cricket league (BBL) launched by One7 Sports Tech Pvt. Ltd. First edition or season of the BBL was held during Aug-Sept ’24 at One7 Sports Park grounds 1,2 & 3 with a total of 10 teams contesting for the coveted BBL trophy. They are now in their new avatar with new owners.",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Amit Giri",
+          "coOwnerBio": "Amit Giri, born in September 1987, is a dynamic batting all-rounder specializing as a top-order batter and off-spin bowler, with sharp fielding skills at point and gully. Off the field, a cybersecurity leader at Atlassian, heading a team of security operations with expertise in safeguarding digital infrastructures. Balancing a passion for cricket with a professional edge in technology.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/amit_giri.png"
+        },
+        {
+          "coOwner": "Varun Jain",
+          "coOwnerBio": "Varun Jain, born in August 1988, is working in the corporate world at a senior position (Director) with expertise in driving digital transformation and analytics solutions. A passionate all-rounder on the cricket field, blending strategy and teamwork in every endeavor, whether delivering client success or winning matches on the cricket pitch.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/varun_jain.png"
+        },
+        {
+          "coOwner": "Harsh Khanna",
+          "coOwnerBio": "Harsh Khanna, is a passionate wicket-keeper batter and keenly follows all aspects of the sport. Outside the cricket world, Harsh leads the North India Compliance and Investigation practice for AZB & Partners, and specializes in White Collar Crime investigation and defense, and anti-corruption matters.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/harsh_khanna.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/red_bulls.png",
+      "teamName": "Red Bulls",
+      "teamProfile": "Red Bulls was formed during the inaugural season of the BigBoys T20 Cricket league (BBL) launched by One7 Sports Tech Pvt. Ltd. First edition or season of the BBL was held during Aug-Sept ’24 at One7 Sports Park grounds 1,2 & 3 with a total of 10 teams contesting for the coveted BBL trophy.",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Sanjay Midha",
+          "coOwnerBio": "Sanjay Midha, is an experienced business owner. Cricket has always been more than just a sport to Sanjay in fact it’s a passion, source of inspiration, and a powerful way to bring people together. As someone who has followed and admired the game for years, Sanjay is thrilled to have the opportunity to contribute to its growth and success. He is a splendid batter and contributes to his fullest on the field. With his vast experience in this game, his calm demeanor and ability lead people and take the together, Sanjay ji as he is fondly called in the cricket circles is a treasure for corporate cricket in Gurgaon.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/sanjay.png"
+        },
+        {
+          "coOwner": "Saurabh Singh Raghav",
+          "coOwnerBio": "Saurabh Singh Raghav, is a Software Engineer by profession and an ardent cricket enthusiast, follower and player. He is an attacking batter and swing bowler at the top. His fielding skills are simply said, top class.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/saurabh.png"
+        },
+        {
+          "coOwner": "Manu Sharma",
+          "coOwnerBio": "Manu Sharma, Co Founder of Teeoff Technologies (An AI based company), co-founded his tech venture which is operating in the most sought-after areas in the tech world – AI. Cricket has always been more than just a passion for Manu. He believes that its in his blood since his childhood. He admires and learns from the game every single day, and now he is excited to take this passion to the next level by being a co-owner of a team and driving its success.Just as AI drives innovation and success in business, Manu believes sports, especially cricket, fosters discipline, strategy, and teamwork—qualities essential in every aspect of life. He encourage everyone to embrace sports as a habit and a way of life.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/manu.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/brown_brears.png",
+      "teamName": "Brown Bears",
+      "teamProfile": "Brown Bears was formed during the inaugural season of the BigBoys T20 Cricket league (BBL) launched by One7 Sports Tech Pvt. Ltd. First edition or season of the BBL was held during Aug-Sept ’24 at One7 Sports Park grounds 1,2 &amp; 3 with a total of 10 teams contesting for the coveted BBL trophy.",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Arpit Jain",
+          "coOwnerBio": "Arpit Jain, a tech-savvy professional with 15 years of rich experience in the field of analytics. Passionate about cricket, Arpit is dedicated to fostering a strong cricket culture within corporate communities, leveraging his love for the sport to build teamwork and engagement At the workplace.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/arpit.png"
+        },
+        {
+          "coOwner": "Yogesh Pushkarna",
+          "coOwnerBio": "Yogesh Pushkarna, an Engineer by profession with over 20 years of rich experience in the Construction Industry. Very Passionate about cricket, Yogesh loves to play matches during weekends when he gets some respite from his busy corporate life. He is a left arm swing bowler with a special liking of bowling the very first over of the innings and to the best batters around in corporate cricket.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/yogesh.png"
+        },
+        {
+          "coOwner": "Subhash Chander",
+          "coOwnerBio": "Subhash Chander, an Engineer by profession with over 18 years of experience in real estate. He loves the game of cricket and form a very young age has been passionate about the game so much that he breathes this game day in day out. Subhash is an all-rounder and bats in the middle order and turns his arms around as and effective and economical right arm leg spinner. He has been playing corporate cricket since 2008 in Gurgaon and believes that the cricket infrastructure in this city is unmatchable.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/subhash.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/blue_scorpions.png",
+      "teamName": "Blue Scorpions",
+      "teamProfile": "Blue Scorpions was formed during the inaugural season of the BigBoys T20 Cricket league (BBL) launched by One7 Sports Tech Pvt. Ltd. First edition or season of the BBL was held during Aug-Sept ’24 at One7 Sports Park grounds 1,2 & 3 with a total of 10 teams contesting for the coveted BBL trophy.",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Sunil Bansal",
+          "coOwnerBio": "Sunil Bansal is a seasoned business leader with over 16 years of experience in business strategy, supply chain management, and operational excellence. He is the Co-founder and Chief Operating Officer (COO) at Fitsol, he has been instrumental in the company’s growth, driving operational efficiency, and leading the execution of strategic initiatives. Prio to his own venture, Sunil worked in senior leadership positions with various reputed companies. His experience in leading high-performance teams combines very well with his passion for cricket where he puts his leadership skills to great use along with his explosive batting and effective spin bowling.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/sunil_bansal.png"
+        },
+        {
+          "coOwner": "Tarunbir Singh Sethi",
+          "coOwnerBio": "Tarunbir Singh Sethi, is a seasoned professional with a background spanning different industries, from paper manufacturing, distillery sector, to real estate to a managing a sugar mill where he learnt various useful concepts and skills. Tarun’s most recent venture is into advertising and technology where as a leader he is focused on creating innovative CPaaS and AdTech solutions. Tarun thrives in dynamic environments, using his strong foundation that pushes boundaries which is also seen in his game on the cricket pitch. Tarun is an explosive batter and likes to open the batting for his team but at the same time is a team man, willing to play as and where the team needs him.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/tarunbir.png"
+        },
+        {
+          "coOwner": "Ashok Yadav",
+          "coOwnerBio": "Ashok Yadav, is an entrepreneur, agricultural Innovator and a hydroponics expert. He is a dynamic entrepreneur with a deep passion for revolutionizing the agriculture sector. As the founder of Hi-Tech Agriculture Farms, he has embraced hydroponic farming techniques to produce high-quality, sustainable, and eco-friendly crops, contributing to the modernization of farming practices in India.Ashok’s ventures showcase his commitment to blending innovation with tradition, ensuring farmers have access to modern solutions while supporting the rural economy. A leader with a vision, he is continually exploring ways to make agriculture more profitable and sustainable for the next generation. Just like his work, Ashok’s passion for cricket is second to none and is amply visible in the way he bats with power and passion as well on the field while he makes difficult catches look easy.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/ashok.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/grey_elephants.png",
+      "teamName": "Grey Elephant",
+      "teamProfile": "Grey Elephant was formed during the inaugural season of the BigBoys T20 Cricket league (BBL) launched by One7 Sports Tech Pvt. Ltd. First edition or season of the BBL was held during Aug-Sept ’24 at One7 Sports Park grounds 1,2 & 3 with a total of 10 teams contesting for the coveted BBL trophy.",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Arvind Singh",
+          "coOwnerBio": "Arvind Singh has been in corporate life for over 25 years now with experience in construction industry in HR management. He has excellent leadership and administration skills. He has played cricket regularly during his collage days and represented the collage team as a batter. After college he continued playing cricket in Gurgaon since 2013 and since then never missed a game when he got a chance during weekends to keep his fitness and meet and make friends. Born in July of 1965, he believes cricket helped him stay fit and happy.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/arvind_singh.png"
+        },
+        {
+          "coOwner": "Vivek Yadav",
+          "coOwnerBio": "Vivek Yadav is competent leader with over 16+ year of experience in Statutory Compliances, Internal Audits and Contract management. Has worked with some prestigious organisations like Deloitte, Genpact and Chess Management Services in the past he is currently, working for Accenture. Born in August of 1982, he took to cricket early on in his life and has been playing regularly during weekend more recently for fun, fitness and togetherness. His interest in cricket drove him to form cricket team within his condominium Suncity. He is a wicket keeper batter in his team which his leads as a captain.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/vivek.png"
+        },
+        {
+          "coOwner": "Vikramjeet Singh",
+          "coOwnerBio": "Vikramjeet Singh has over 15 years of experience in the e-commerce industry, specializing in Catalog Management, Customer Experience, Studio Operations, and Catalog Operations, currently serving as Deputy Director at Myntra (part of Walmart Global). Proven expertise in optimizing catalog processes, enhancing customer engagement, and driving operational efficiency.  Known for leadership in managing cross-functional teams and delivering innovative solutions to improve product visibility and customer satisfaction. Focused on continuous improvement, with a strong ability to navigate fast-paced environments and deliver impactful results. Born in August of 1989, he loves playing active sports, especially cricket, to keep fit and healthy. He also enjoys working out in the gym and cross-training.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/vikramjeet.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/yellow_lions.png",
+      "teamName": "Yellow Lion",
+      "teamProfile": "",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Jagbir Gulia",
+          "coOwnerBio": "",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/jagbir_gulia.png"
+        },
+        {
+          "coOwner": "Anil Yadav",
+          "coOwnerBio": "",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/ani.png"
+        },
+        {
+          "coOwner": "Vikash Sharma",
+          "coOwnerBio": "",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/vikash.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/golden_eagle.png",
+      "teamName": "Golden Eagles",
+      "teamProfile": "Golden Eagles is a new entrant to the the BigBoys T20 Cricket league (BBL) by One7 Sports Tech Pvt. Ltd. First edition or season of the BBL was held during Aug-Sept ’24 at One7 Sports Park grounds 1,2 & 3 with a total of 10 teams contesting for the coveted BBL trophy. BBL season 1 was an inspiration for new teams to come forward after experiencing the buzz, level of cricket and overall environment.",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Arvind Kumar",
+          "coOwnerBio": "Arvind Kumar, with his illustrious career that spans over 28 years stands as a paragon of leadership and innovation within the hospitality realm. A Hotel Management graduate and a founding member of his company, Arvind’s visionary acumen extends beyond traditional hospitality boundaries, giving life to RCL—a premier cricket league that elegantly marries his zeal for sports with his unparalleled expertise in luxury guest experiences. Through RCL, he has redefined the confluence of sportsmanship and high-end hospitality, establishing a new echelon in experiential entertainment. From spearheading strategic growth initiatives and crafting sophisticated marketing strategies to overseeing B2B relations and curating exquisite culinary experiences, Arvind’s influence permeates every facet of the organization. As a board member, his discerning insights and unwavering dedication have been instrumental in carving a legacy of distinction and excellence, cementing the company’s standing as an avant-garde leader in the industry.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/arvind.png"
+        },
+        {
+          "coOwner": "Abhishek",
+          "coOwnerBio": "",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/abhishek.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    },
+    {
+      "teamLogo": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/violet_wolves.png",
+      "teamName": "Violet Wolves",
+      "teamProfile": "Violet Wolves is a new entrant to the BigBoys T20 Cricket league (BBL) launched by One7 Sports Tech Pvt. Ltd. First edition or season of the BBL was held during Aug-Sept ’24 at One7 Sports Park grounds 1,2 & 3 with a total of 10 teams contesting for the coveted BBL trophy.",
+      "TeamCoOwners": [
+        {
+          "coOwner": "Sanjeev Ananthakrishnan",
+          "coOwnerBio": "Sanjeev Ananthakrishnan, a B.Sc Statistics (Hons) graduate from Ramjas College (DU) with over 20 years work experience in Customer Services, Risk Management and Gaming industry. He is a hardcore sports enthusiast. Left arm medium pacer, right hand batter leads his team WCE within NCR region and enjoys intense and highest level of competitive clashes. When Sanjeev is not playing cricket (which is very rare) he loves to play Tennis/Badminton/Carrom/ Frisby/Cards.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/sanjeev.png"
+        },
+        {
+          "coOwner": "Soham Sinha",
+          "coOwnerBio": "Soham Sinha, is finance professional with over 10 years of experience in Banking and investments. Soham has been an active member of the Delhi NCR cricket circuit for over 13 years. A middle order batter, right arm pace bowler who can also keep wickets when required. He has amassed over 6,000 runs and has 220 scalps to his name.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/soham.png"
+        },
+        {
+          "coOwner": "Mayank Wadhi",
+          "coOwnerBio": "Mayank Wadhi, a marketing and sales professional, Mayank has been active in the NCR cricket circuit for more than 10 years now. Middle order batter and a medium pacer, he also ran his own team Delhi Cannons for 4 years prior to the pandemic in 2020.",
+          "coOwnerImage": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/mayank.png"
+        }
+      ],
+      "teamGroupPhoto": "#"
+    }
+  ]
+}

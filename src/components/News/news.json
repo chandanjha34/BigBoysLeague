@@ -1,0 +1,32 @@
+[
+  {
+    "type": "news",
+    "image": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/news_image_1.png",
+    "link": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/pdfs/PG+NO+2+TIMES+OF+UNIVERSE.pdf",
+    "description": "An exciting match was seen between Orange Horse and Black Dog in the BBL T20 Grand Finale"
+  },
+  {
+    "type": "video",
+    "image": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/news_image_2.png",
+    "link": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/videos/news_video.mp4",
+    "description": "बीबीएल टी20 लीग के ग्रैंड फिनाले में ऑरेंज हॉर्स और ब्लैक डॉग के बीच रोमांचक मुकाबला हुआ। ऑरेंज हॉर्स ने शानदार प्रदर्शन करते हुए जीत दर्ज की। यह मुकाबला वन7 स्पोर्ट्स के मैदान पर आयोजित किया गया। समापन समारोह में रेस्त्रां क्रिकेट लीग के संस्थापक अरविंद कुमार ने कार्यक्रम की शोभा बढ़ाई।"
+  },
+  {
+    "type": "news",
+    "image": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/news_hindi_1.png",
+    "link": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/pdfs/PG+NO+2+JAGAT+KRANTI.pdf",
+    "description": "बीबीएल टी20 ग्रैंड फिनाले: ऑरेंज हॉर्स ने ब्लैक डॉग को हराया"
+  },
+  {
+    "type": "news",
+    "image": "src/assets/Home_assets/news_image_1.png",
+    "link": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/pdfs/PG+NO+7+TODAY+TIMES.pdf",
+    "description": "Orange Horse Triumphs Over Black Dog in Thrilling BBL T20 Finale"
+  },
+  {
+    "type": "news",
+    "image": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/news_hindi_2.png",
+    "link": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/pdfs/pg_no_5_jagrook_express.pdf",
+    "description": "बीबीएल टी20 ग्रैंड फिनाले: ऑरेंज हॉर्स ने ब्लैक डॉग को हराकर खिताब जीता"
+  }
+]

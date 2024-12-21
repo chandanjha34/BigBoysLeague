@@ -13,7 +13,7 @@ function LandingPage() {
     <div className="relative bg-[#ffffff]">
       {/* Navbar */}
       <div className="relative">
-        <Navbar />
+        <Navbar version={1} />
       </div>
 
       {/* Hero Section */}

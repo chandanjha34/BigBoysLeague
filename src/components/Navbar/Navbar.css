@@ -1,4 +1,51 @@
-.nav-bar {
+/* Navbar.css */
+
+.sidebar-wrapper {
+    background-color: rgba(0, 0, 0, 0.9); /* Dark semi-transparent overlay */
+    color: #fff; /* Text color */
+    position: fixed; /* Stay in place */
+    top: 0;
+    right: 0;
+    height: 100vh; /* Full viewport height */
+    z-index: 1000; /* Ensure it appears on top */
+  }
+  
+  .sidebar-container {
+    background-color: #222; /* Solid dark background */
+    color: #fff; /* Text color */
+    width: 75%; /* Sidebar width */
+    height: 100vh; /* Full viewport height */
+    overflow-y: auto; /* Scroll if content overflows */
+    padding: 20px; /* Add padding inside the container */
+  }
+  
+  .sidebar-menu {
+    list-style: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .sidebar-menu li {
+    margin-bottom: 10px; /* Space between items */
+  }
+  
+  .sidebar-menu li a {
+    color: #ffffff; /* Bright white text */
+    font-size: 18px; /* Increase font size */
+    font-weight: bold; /* Make text bold */
+    padding: 10px 15px; /* Add padding for better spacing */
+    background-color: #333; /* Add a subtle background for contrast */
+    border-radius: 8px; /* Rounded corners for aesthetic */
+    display: block; /* Make the link fill the list item */
+    transition: background-color 0.3s; /* Smooth background transition */
+  }
+  
+  .sidebar-menu li a:hover {
+    background-color: #444; /* Slightly lighter background on hover */
+    color: #ffdd00; /* Bright yellow text on hover */
+  }
+  
+  /* Additional styles for the navbar */
+  .nav-bar {
     display: flex;
     align-items: center;
     justify-content: space-between; /* Ensure space between items */
@@ -9,36 +56,83 @@
     z-index: 1000;
     top: 6vh;
     color: black;
-    border-radius: 1rem;
-}
-
-ul {
+  }
+  
+  ul {
     transition: max-height 0.3s ease-in-out; /* Smooth transition for dropdown */
     display: flex; /* Ensure the list is displayed as a flex container */
     flex-grow: 1; /* Allow the list to grow and take available space */
-}
-
-@media (max-width: 768px) {
+  }
+  
+  @media (max-width: 768px) {
     ul {
-        display: none; /* Hide by default on small screens */
-        flex-direction: column; /* Stack items vertically */
-        position: absolute; /* Positioning for dropdown */
-        background-color: rgba(0, 0, 0, 0.8); /* Background for dropdown */
-        width: 100%; /* Full width */
-        top: 100%; /* Position below the navbar */
-        left: 0; /* Align to the left */
-        z-index: 1000; /* Ensure it appears above other content */
+      display: none; /* Hide by default on small screens */
+      flex-direction: column; /* Stack items vertically */
+      position: absolute; /* Positioning for dropdown */
+      background-color: rgba(0, 0, 0, 0.8); /* Background for dropdown */
+      width: 100%; /* Full width */
+      top: 100%; /* Position below the navbar */
+      left: 0; /* Align to the left */
+      z-index: 1000; /* Ensure it appears above other content */
     }
-
+  
     ul.block {
-        display: flex; /* Show when toggled */
+      display: flex; /* Show when toggled */
     }
-}
-li:last-child { /* Assuming "Contact Us" is the last item */
+  }
+  
+  li:last-child { /* Assuming "Contact Us" is the last item */
     white-space: nowrap;
-}
-
-/* Additional styles for padding */
-li {
+  }
+  
+  /* Additional styles for padding */
+  li {
     padding-left: 1rem; /* Add left padding to each list item */
-}
+  }
+
+  .sidebar-menu li a {
+    color: white; /* Sidebar text color */
+  }
+  
+  .sidebar-menu li a:hover {
+    background-color: gray; /* Background when hovered */
+  }
+  .sidebar-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.75); /* Ensure opacity covers content */
+    z-index: 50;
+  }
+  
+  .sidebar-container {
+    background-color: black; /* Sidebar container color */
+    width: 75%;
+    height: 100%;
+  }
+  .sidebar-menu li a {
+    color: white !important; /* Force white text */
+    font-size: 1.2rem;
+    display: block;
+    padding: 10px 0;
+  }
+  
+  .sidebar-menu li a:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Subtle hover effect */
+  }
+  .sidebar-wrapper {
+    pointer-events: auto; /* Enable interactions */
+  }
+  
+  .sidebar-container {
+    pointer-events: auto; /* Ensure content is clickable */
+  }
+  button[aria-label="Close Sidebar"] {
+    color: white !important; /* Force white color for close icon */
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+        

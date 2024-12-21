@@ -1,0 +1,98 @@
+/* Page Background and Container */
+.matches-page {
+    background-color: #4b0082;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: white;
+  }
+  
+  .page-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Match Card Styles */
+  .matches-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .match-card {
+    background-color: #ffffff;
+    color: #333333;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .match-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .match-stage {
+    background-color: #ffd700;
+    color: #4b0082;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    font-weight: bold;
+  }
+  
+  .match-date {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  .teams {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .venue {
+    font-size: 0.9rem;
+    color: #555555;
+    text-align: center;
+  }
+  
+  .scores {
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    color: #333333;
+  }
+  
+  .result {
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    color: #ff4500;
+  }
+  
+  /* Show More Button */
+  .show-more-button {
+    display: block;
+    margin: 20px auto 0;
+    padding: 10px 20px;
+    background-color: #ffd700;
+    color: #4b0082;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .show-more-button:hover {
+    background-color: #ffc300;
+  }
+  

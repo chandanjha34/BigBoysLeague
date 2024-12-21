@@ -9,6 +9,7 @@ import News from './components/News/NewsPage';
 import Teams from './components/Teams/TeamsPage';
 import PointsTable from './components/PointsTable/PointsTable'
 import TeamDetails from './components/Teams/teamDetails';
+import Matches from './components/Matches/Matches'
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
         <Route path="/points-table" element={<PointsTable />} />
         <Route path="/teams" element={<Teams />} />
         <Route path="/teamDetails/:season/:teamIndex" element={<TeamDetails />} />
+        <Route path="/matches" element={<Matches />} />
       </Routes>
     </Router>
   )

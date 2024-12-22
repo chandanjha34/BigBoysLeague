@@ -65,18 +65,14 @@ function Navbar() {
 
       {/* Sidebar for Mobile */}
       {isMenuOpen && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 z-50 md:hidden sidebar-wrapper" onClick={toggleMenu}>
-          <div className="sidebar-container" onClick={(e) => e.stopPropagation()}>
-            <ul className="sidebar-menu space-y-4 px-6 mt-8">
-            {isMenuOpen && (
-  <div className="sidebar-wrapper" onClick={toggleMenu}>
+  <div className="fixed inset-0 z-50 sidebar-wrapper" onClick={toggleMenu}>
     <div className="sidebar-container" onClick={(e) => e.stopPropagation()}>
       <button
-        className="close-button self-end text-white"
-        onClick={toggleMenu}
         aria-label="Close Sidebar"
+        onClick={toggleMenu}
+        className="absolute top-4 right-4 text-white text-2xl"
       >
-        <FaTimes size={24} />
+        &times;
       </button>
       <ul className="sidebar-menu space-y-4 px-6 mt-8">
         {menuItems.map((item, index) => (
@@ -84,7 +80,7 @@ function Navbar() {
             <Link
               to={`/${item.path}`}
               onClick={() => setIsMenuOpen(false)}
-              className="block text-white text-lg hover:bg-gray-700 p-2 rounded transition"
+              className="block z-1000 text-white text-lg p-2 rounded transition"
             >
               {item.name}
             </Link>
@@ -94,11 +90,6 @@ function Navbar() {
     </div>
   </div>
 )}
-</ul>
-
-          </div>
-        </div>
-      )}
 
       {/* Hero Section */}
       <div

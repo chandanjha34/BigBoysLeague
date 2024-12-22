@@ -48,12 +48,12 @@ function Navbar() {
             return (
               <li
                 key={index}
-                className={`flex text-lg font-medium p-4 md:p-0 md:ml-6 h-full items-center ${item.name === "Stats" ? "bg-violet-900 rounded-lg hover:bg-violet-700" : ""}`}
+                className={`flex text-lg font-medium p-4 md:p-0 md:ml-6 h-full items-center ${item.name === "Stats" ? "bg-highlight rounded-lg hover:bg-highlight-hover" : ""}`}
                 onClick={() => setIsMenuOpen(false)}
               >
                 <Link
                   to={`/${item.path}`}
-                  className={`z-50 ${item.name === "Stats" ? "px-4 text-white" : "text-white"} ${isActive ? "underline underline-offset-8 decoration-1" : ""}`}
+                  className={`z-50 ${item.name === "Stats" ? "px-4 text-white font-bold" : "text-white"} ${isActive ? "underline underline-offset-8 decoration-1" : ""}`}
                 >
                   {item.name}
                 </Link>
@@ -65,31 +65,31 @@ function Navbar() {
 
       {/* Sidebar for Mobile */}
       {isMenuOpen && (
-  <div className="fixed inset-0 z-50 sidebar-wrapper" onClick={toggleMenu}>
-    <div className="sidebar-container" onClick={(e) => e.stopPropagation()}>
-      <button
-        aria-label="Close Sidebar"
-        onClick={toggleMenu}
-        className="absolute top-4 right-4 text-white text-2xl"
-      >
-        &times;
-      </button>
-      <ul className="sidebar-menu space-y-4 px-6 mt-8">
-        {menuItems.map((item, index) => (
-          <li key={index}>
-            <Link
-              to={`/${item.path}`}
-              onClick={() => setIsMenuOpen(false)}
-              className="block z-1000 text-white text-lg p-2 rounded transition"
+        <div className="fixed inset-0 z-50 sidebar-wrapper" onClick={toggleMenu}>
+          <div className="sidebar-container" onClick={(e) => e.stopPropagation()}>
+            <button
+              aria-label="Close Sidebar"
+              onClick={toggleMenu}
+              className="absolute top-4 right-4 text-white text-2xl"
             >
-              {item.name}
-            </Link>
-          </li>
-        ))}
-      </ul>
-    </div>
-  </div>
-)}
+              &times;
+            </button>
+            <ul className="sidebar-menu space-y-4 px-6 mt-8">
+              {menuItems.map((item, index) => (
+                <li key={index}>
+                  <Link
+                    to={`/${item.path}`}
+                    onClick={() => setIsMenuOpen(false)}
+                    className="block z-1000 text-white text-lg p-2 rounded transition"
+                  >
+                    {item.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      )}
 
       {/* Hero Section */}
       <div

@@ -32,7 +32,7 @@ function TeamsSection({ marginTop }) {
   }, []);
 
   return (
-    <div className="flex flex-col items-center mt-10" style={{ marginTop }}>
+    <div className="flex flex-col items-center mt-10">
       <div className="mb-8">
         <label htmlFor="season-select" className="text-lg font-bold mr-4">
           Select Season:

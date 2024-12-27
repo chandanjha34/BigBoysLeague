@@ -167,7 +167,7 @@ const PointsTable = () => {
     <div>
       <div className="bg-gradient-to-b from-gray-900 to-blue-900 min-h-screen">
         <Navbar version={3} />
-        <div className="p-6 flex flex-col items-center" style={{ marginTop: `${MAX_HEADER_HEIGHT}px` }}>
+        <div className="p-6 flex flex-col items-center" >
           <header className="text-white text-3xl font-bold mb-6">Points Table</header>
           {/* Dropdown */}
           <div className="mb-6">
@@ -212,12 +212,7 @@ const PointsTable = () => {
                     <td className="px-4 py-2 text-center">{team.points}</td>
                     <div
                       className="absolute inset-0 bg-cover bg-center"
-                      style={{
-                        backgroundImage: `url(${team.background})`,
-                        opacity: 0.3,
-                        zIndex: -1,
-                        filter: "brightness(4.5)",
-                      }}
+                      
                     />
                   </tr>
                 ))}

@@ -7,7 +7,7 @@ import NewsPreview from '../News/NewsPreview';
 import teamsData from "./teams.json";
 
 function TeamsSection({ marginTop }) {
-  const [selectedSeason, setSelectedSeason] = useState("BBL SZ 2024");
+  const [selectedSeason, setSelectedSeason] = useState("BBL S2 2024");
   const [selectedTeam, setSelectedTeam] = useState(null);
 
   const handleSeasonChange = (event) => {
@@ -125,16 +125,7 @@ function TeamsSection({ marginTop }) {
             )}
 
             {/* Team Group Photo */}
-            <div className="mt-6">
-              <h4 className="text-lg font-bold text-gray-900 mb-2 bg-yellow-400 inline-block px-3 py-1 rounded-md">
-                Team Group Photo:
-              </h4>
-              <img
-                src={selectedTeam.teamGroupPhoto}
-                alt={`${selectedTeam.teamName} Group`}
-                className="w-full rounded-lg object-cover shadow-md"
-              />
-            </div>
+          
           </div>
         </div>
       )}
@@ -163,7 +154,7 @@ function Teams() {
       <Navbar version={3} />
 
       {/* About One7 Section */}
-      <TeamsSection marginTop={MAX_HEADER_HEIGHT} />
+      <TeamsSection />
 
       {/* Gallery Section */}
       <GalleryPreview />

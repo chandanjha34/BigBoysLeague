@@ -1,4 +1,6 @@
 import React from 'react'
+import image2 from '../../assets/Home_assets/image2.png'
+import image3 from '../../assets/Home_assets/image3.png'
 
 function GalleryPreview() {
     return (
@@ -33,12 +35,12 @@ function GalleryPreview() {
                 className="w-full h-40 md:h-48 object-cover rounded-lg shadow-md"
             />
             <img
-                src="https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/gal_3.png"
+                src={image2}
                 alt="Gallery Sample Image 3"
                 className="w-full h-40 md:h-48 object-cover rounded-lg shadow-md"
             />
             <img
-                src="https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/gal_4.png"
+                src={image3}
                 alt="Gallery Sample Image 4"
                 className="w-full h-40 md:h-48 object-cover rounded-lg shadow-md"
             />

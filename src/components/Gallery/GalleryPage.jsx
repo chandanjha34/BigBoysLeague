@@ -14,7 +14,7 @@ function MomentsSection({ marginTop }) {
   const [selectedImage, setSelectedImage] = useState(null);
 
   return (
-    <div className="bg-white py-12 px-6 md:px-20 lg:px-40" style={{ marginTop: `${marginTop}px` }}>
+    <div className="bg-white py-12 px-6 md:px-20 lg:px-40">
       <div className="text-center mb-12">
         <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
           Moments That Defined the Match

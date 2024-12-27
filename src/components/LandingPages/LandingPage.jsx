@@ -24,7 +24,7 @@ function LandingPage() {
         />
 
         {/* Logos and Link */}
-        <div className="absolute top-1/2 md:top-3/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col md:flex-row items-center"> 
+        <div className="absolute top-1/2 md:top-3/2 left-1/2 transform -translate-x-1/2 -translate-y-3/2 md:-translate-y-1/2 flex flex-col md:flex-row items-center"> 
           <img
             src={logo1}
             alt="Big Boys League Logo"

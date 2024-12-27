@@ -62,7 +62,7 @@ function News() {
       
       {/* About One7 Section */}
       {/* News Section Header */}
-      <div className="bg-purple-50 py-12 px-6 text-center" style={{ marginTop: `${MAX_HEADER_HEIGHT}px` }}>
+      <div className="bg-purple-50 py-12 px-6 text-center">
         <h4 className="text-purple-600 text-sm font-semibold uppercase tracking-wide mb-2">
           News
         </h4>

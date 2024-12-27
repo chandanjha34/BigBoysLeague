@@ -4,6 +4,7 @@ import Footer from '../Footer/Footer';
 import GalleryPreview from '../Gallery/GalleryPreview';
 import TeamsPreview from '../Teams/TeamsPreview';
 import NewsPreview from '../News/NewsPreview';
+import image1 from '../../assets/Home_assets/image1.png'
 
 function Home() {
   const [scrolled, setScrolled] = useState(false);
@@ -25,7 +26,7 @@ function Home() {
       {/* About One7 Section */}
       <div
         className="bg-purple-50 py-12 px-6 md:px-16 lg:px-32"
-        style={{ marginTop: `${MAX_HEADER_HEIGHT}px` }}
+        
       >
         <div className="text-center">
           <h4 className="text-indigo-600 text-sm font-semibold uppercase tracking-wide mb-4">
@@ -59,7 +60,7 @@ function Home() {
         </div>
         <div className="mt-8 flex justify-center">
           <img
-            src="https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/the_team.png"
+            src={image1}
             alt="Big Boys League Team"
             className="w-full max-w-4xl rounded-lg shadow-md"
           />

@@ -663,7 +663,7 @@ const CricketStats = () => {
     return (
         <div className="flex flex-col h-full">
             <Navbar version={3} />
-            <div className="bg" style={{ marginTop: `${MAX_HEADER_HEIGHT}px` }}>
+            <div className="bg">
                 {/* <div
                     style={{
                         display: "flex",

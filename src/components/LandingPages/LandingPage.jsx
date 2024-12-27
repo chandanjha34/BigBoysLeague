@@ -12,9 +12,7 @@ function LandingPage() {
   return (
     <div className="relative bg-[#ffffff]">
       {/* Navbar */}
-      <div className="relative">
-        <Navbar version={3} />
-      </div>
+      <Navbar version={3} />
 
       {/* Hero Section */}
       <div className="relative">
@@ -22,27 +20,27 @@ function LandingPage() {
         <img
           src={MainImage}
           alt="Winning Team"
-          className="w-full h-screen object-cover"
+          className="w-full h-screen md:h-full object-cover" // Use h-screen for full viewport height
         />
 
         {/* Logos and Link */}
-        <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-row items-center"> 
+        <div className="absolute top-1/2 md:top-3/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col md:flex-row items-center"> 
           <img
             src={logo1}
             alt="Big Boys League Logo"
-            className="h-auto w-[12rem] md:w-[16rem] rounded-full mb-4" 
+            className="h-auto w-[10rem] md:w-[12rem] lg:w-[16rem] rounded-full mb-4 md:mb-0 md:mr-4" 
           />
           <img
             src={logo2}
             alt="One7 Sports Logo"
-            className="h-auto w-[12rem] md:w-[16rem] rounded-full"
+            className="h-auto w-[10rem] md:w-[12rem] lg:w-[16rem] rounded-full"
           />
         </div>
       </div>
 
       {/* Footer */}
-      <footer className="bg-white py-8">
-        <div className="flex pt-[20vh] flex-col items-center">
+      <footer className="bg-white mt-8 py-4 md:mt-[20vh]">
+        <div className="flex flex-col items-center">
           {/* Link */}
           <Link to="/home" className="text-blue-500 hover:underline">
             Go to Home Page

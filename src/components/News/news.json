@@ -1,4 +1,29 @@
+
 [
+  {
+    "type": "news",
+    "image": "https://i.ibb.co/b1BdrVX/news1.png",
+    "link": "http://m.samaylive.com/regional-news-in-hindi/ncr-news-in-hindi/522106/-from-the-boardroom-to-the-borders-one7-sports-big-boys-league-season-2-unveiled.html",
+    "description": "बोर्डरूम से लेकर सीमाओं तक! वन7 स्पोर्ट्स - बिग बॉयज लीग सीजन 2 का अनावरण"
+  },
+  {
+    "type": "news",
+    "image": "https://i.ibb.co/CzdVcrp/news2.png",
+    "link": "https://haryana.punjabkesari.in/gurgaon/news/one7-sports--unveils-big-boys-league-season-2-2079198",
+    "description": "वन7 स्पोर्ट्स - बिग बॉयज लीग सीजन 2 का अनावरण"
+  },
+  {
+    "type": "news",
+    "image": "https://i.ibb.co/P6F5mzY/news3.png",
+    "link": "https://epaper.thestatesman.com/m5/3956167/Delhi-The-Statesman/25-12-2024#page/16/1",
+    "description": "Big Bos Laague Season 2 unvieled"
+  },
+  {
+    "type": "news",
+    "image": "https://i.ibb.co/RBSM2Fg/news4.png",
+    "link": "https://www.jagran.com/other-sports/headlines-big-boys-league-season-2-unveiled-23856970.html",
+    "description": "BBL: बिग बॉयज लीग सीजन 2 का अनावरण, दिल्ली एनसीआर के पेशेवर दिखाएंगे अपना हुनर"
+  },
   {
     "type": "news",
     "image": "https://bigboysleague--1--1734761983633854436.s3.ap-south-1.amazonaws.com/images/news_image_1.png",

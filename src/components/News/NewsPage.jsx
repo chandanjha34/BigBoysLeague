@@ -1,7 +1,6 @@
 import React, {useState, useEffect} from 'react'
 import Navbar from '../Navbar/Navbar';
 import Footer from '../Footer/Footer';
-
 import GalleryPreview from '../Gallery/GalleryPreview';
 import TeamsPreview from '../Teams/TeamsPreview';
 import newsData from "./news.json";
